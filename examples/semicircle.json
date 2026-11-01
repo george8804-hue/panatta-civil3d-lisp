@@ -1,0 +1,7 @@
+{
+  "schemaVersion": "1.0",
+  "source": "synthetic-test",
+  "units": "m",
+  "closed": true,
+  "vertices": [{"e": 0, "n": 0, "bulge": 1}, {"e": 20, "n": 0}]
+}

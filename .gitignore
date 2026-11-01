@@ -1,0 +1,8 @@
+**/bin/
+**/obj/
+artifacts/*
+!artifacts/PANATTA_MEMORIAL_FASE1_WINDOWS_0.1.0.zip
+!artifacts/PANATTA_MEMORIAL_FASE1_WINDOWS_0.1.0.zip.sha256
+.tools/
+*.user
+*.suo

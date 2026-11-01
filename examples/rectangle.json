@@ -1,0 +1,14 @@
+{
+  "schemaVersion": "1.0",
+  "source": "synthetic-test",
+  "units": "m",
+  "closed": true,
+  "nativeArea": 200,
+  "nativePerimeter": 60,
+  "vertices": [
+    {"e": 0, "n": 0},
+    {"e": 10, "n": 0},
+    {"e": 10, "n": 20},
+    {"e": 0, "n": 20}
+  ]
+}
